@@ -1,0 +1,5 @@
+name,source_zones,source_address,source_users,destination_zones,destination_address,applications,services,categories,action
+"mackro_utils00","Inside, Outside","any","any","Outside","any","any","application-default","any","allow"
+"mackro_utils01","Inside, Outside","any","any","Outside","any","any","application-default","any","allow"
+"mackro_utils02","Inside, Outside","any","any","Outside","any","any","application-default","any","allow"
+"mackro_utils03","Inside, Outside","any","any","Outside","any","any","application-default","any","allow"
